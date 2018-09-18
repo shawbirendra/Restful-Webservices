@@ -17,7 +17,7 @@ public String toString() {
 	public String getMessage() {
 		return message;
 	}
-
+hi
 	public void setMessage(String message) {
 		this.message = message;
 	}
